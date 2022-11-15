@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephenGithubHosting
 - 👀 I’m interested in programming index.html
 - 🌱 I’m currently learning Full HTML Course
-- 💞️ I’m looking to collaborate on CSS Projects
+- 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me : 
 nope
 
